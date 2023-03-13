@@ -38,7 +38,7 @@ variable "sg_id" {
 }
 
 variable "keyname" {
-  default = "test"
+  default = "login"
 }
 variable "vpc_id" {
    default = "vpc-0b9fe93cf03c80f08"
